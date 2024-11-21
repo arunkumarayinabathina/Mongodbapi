@@ -82,7 +82,7 @@ GET https://mongodbapi-0d50.onrender.com/api/products/673ed575ec10a5624d829c48
 ### 4. **To Add Product**
 
 - **URL**: `/api/products`
-- **Method**: `Delete`
+- **Method**: `Post`
 - **Description**: This endpoint add product to the database.
 
 **Example Request:**
