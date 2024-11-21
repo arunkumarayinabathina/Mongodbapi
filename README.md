@@ -4,7 +4,7 @@ Welcome to the **Product API** documentation. This API allows you to manage prod
 
 ## Base URL
 The base URL is:
-https://mongodbapi-0d50.onrender.com
+https://mongodbapi-71pu.onrender.com
 ## Endpoints
 
 ### 1. **Get All Products**
@@ -15,7 +15,7 @@ https://mongodbapi-0d50.onrender.com
 
 **Example Request:**
 
-GET https://mongodbapi-0d50.onrender.com/api/products
+GET https://mongodbapi-71pu.onrender.com/api/products
 
 **Example Response:**
 
@@ -46,7 +46,7 @@ GET https://mongodbapi-0d50.onrender.com/api/products
 
 **Example Request:**
 
-GET https://mongodbapi-0d50.onrender.com/api/products/673ed575ec10a5624d829c48
+GET https://mongodbapi-71pu.onrender.com/api/products/673ed575ec10a5624d829c48
 
 **Example Response:**
 
@@ -68,7 +68,7 @@ GET https://mongodbapi-0d50.onrender.com/api/products/673ed575ec10a5624d829c48
 
 **Example Request:**
 
-GET https://mongodbapi-0d50.onrender.com/api/products/673ed575ec10a5624d829c48
+GET https://mongodbapi-71pu.onrender.com/api/products/673ed575ec10a5624d829c48
 
 **Example Response:**
 
@@ -87,7 +87,7 @@ GET https://mongodbapi-0d50.onrender.com/api/products/673ed575ec10a5624d829c48
 
 **Example Request:**
 
-GET https://mongodbapi-0d50.onrender.com/api/products
+GET https://mongodbapi-71pu.onrender.com/api/products
 
 **Body**
 ```json
@@ -107,7 +107,7 @@ GET https://mongodbapi-0d50.onrender.com/api/products
 
 **Example Request:**
 
-GET https://mongodbapi-0d50.onrender.com/api/products/673eb4aba386d37e91a8f3d5
+GET https://mongodbapi-71pu.onrender.com/api/products/673eb4aba386d37e91a8f3d5
 ### You need to provide the data in the body what you want to update
 **Example Response:**
 
